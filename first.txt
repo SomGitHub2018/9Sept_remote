@@ -1,3 +1,5 @@
 This is the first file we are creating. planning to commit
 we are adding this line in feat2 branch
 we are again adding from master
+we are second line in feat2 for creating conflit
+
